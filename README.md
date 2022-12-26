@@ -2,6 +2,7 @@
 
 Perkenalkan nama saya **Angga Kurnia**.\
 Saya seorang **Mahasiswa** di [Universitas Pamulang](https://unpam.ac.id/).\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/angkrnia/)ku ya.
 
 <p align="left">
 <a href="https://github.com/angkrnia">
