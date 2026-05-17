@@ -38,7 +38,7 @@ Ayo terkoneksi di [LinkedIn](https://www.linkedin.com/in/angkrnia/) 🚀
 <p align="left">
   <a href="https://www.linkedin.com/in/angkrnia/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/angkrnia"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://twitter.com/angkrnia"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"></a>
+  <a href="https://x.com/angkrnia"><img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x"></a>
   <a href="https://www.threads.com/@angkrnia"><img src="https://img.shields.io/badge/Threads-blue?style=for-the-badge&logo=threads"></a>
 </p>
 
